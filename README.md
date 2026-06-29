@@ -7,7 +7,7 @@
 + Carter Nicholson
 + Ali Faour
 
-Link to Word Doc Reflection: https://brocku-my.sharepoint.com/:w:/g/personal/ds23xq_brocku_ca/IQBnq-gd9DK0Rba-gxF7NBAcAb1JQxX6PXDKchGLy1_ObJg?e=S6iJmn
+Link to Word Doc Reflection (VIEW ONLY FOR INSTRUCTORS): https://brocku-my.sharepoint.com/:w:/g/personal/ds23xq_brocku_ca/IQBnq-gd9DK0Rba-gxF7NBAcAb1JQxX6PXDKchGLy1_ObJg?e=S6iJmn
 
 **HOW TO LAUNCH**
 1) SSH into the robot using: ssh ubuntu@ubuntu (Password: ubuntu)

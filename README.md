@@ -36,3 +36,8 @@ Limitations primarily relate to the downsides of a hard-coded program. Since it 
   - Spent last lab getting proper robot movements set up, and getting the actual code working.
   - Wrote the code to finalize robots movements.
   - Got robot to be able to pick up cube without adjustments
++ Ali Faour:
+  - Helped develop and debug the robot's code, contributing to the implementation and refinement of its movement logic.
+  - Worked with teammates to troubleshoot the robot, making multiple test attempts and code adjustments to get it running correctly.
+  - Assisted in testing and verifying the robot's movements to ensure it completed the required tasks as expected.
+

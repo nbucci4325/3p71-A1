@@ -23,4 +23,7 @@ Limitations primarily relate to the downsides of a hard-coded program. Since it 
 **PER-MEMBER CONTRIBUTIONS**
 + Subquat Siddiqui:
   - Created written reflection, measured the distance robot needed to travel during test runs and assisted in calibrating those measurements into code.
-+ [text goes here]
++ Adam Chorzepa:
+  - Helped develop and implement the robot's code, translating our planned sequence of actions into a working program.
+  - Worked with teammates during testing to verify measurements and ensure the robot moved as expected.
+  - Proposed using odometry-based movement to drive the robot to it's target positions instead of fixed movement durations or hard-coded distances.

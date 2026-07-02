@@ -31,3 +31,7 @@ Limitations primarily relate to the downsides of a hard-coded program. Since it 
   - Helped develop initial robot movement
   - Worked with teammates during testing to verify measurements and ensure the robot moved as expected.
   - Created and organized GitHub repo inital setup as well as inital document organization
++ Carter Nicholson + Ali Faour:
+  - Helped getting the robot working initially, setting up ssh and tailscale.
+  - Spent last lab getting proper robot movements set up, and getting the actual code working.
+  - Got robot to be able to pick up cube without adjustments

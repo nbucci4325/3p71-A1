@@ -21,4 +21,6 @@ We prioritized using the built-in odometry to control the robot, opting for a ha
 Limitations primarily relate to the downsides of a hard-coded program. Since it is hard-coded, the solution to the problem can only be solved one way (the hard-code). The robot does not autonomously solve the problem on its own using sensors or anything similar.
 
 **PER-MEMBER CONTRIBUTIONS**
-[text goes here]
++ Subquat Siddiqui:
+  - Created written reflection, measured the distance robot needed to travel during test runs and assisted in calibrating those measurements into code.
++ [text goes here]

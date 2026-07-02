@@ -34,4 +34,5 @@ Limitations primarily relate to the downsides of a hard-coded program. Since it 
 + Carter Nicholson + Ali Faour:
   - Helped getting the robot working initially, setting up ssh and tailscale.
   - Spent last lab getting proper robot movements set up, and getting the actual code working.
+  - Wrote the code to finalize robots movements.
   - Got robot to be able to pick up cube without adjustments
